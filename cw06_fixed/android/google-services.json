@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530038533528",
+    "project_id": "cw06-task-manager-cc972",
+    "storage_bucket": "cw06-task-manager-cc972.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530038533528:android:399d7722020e3497fc4fed",
+        "android_client_info": {
+          "package_name": "com.dhruvv.cw06taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsa0Dqnx8YWwWhdB8iqzoPS5NVCRYMy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
